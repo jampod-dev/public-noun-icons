@@ -7,21 +7,14 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-	<title>Noun Project Public Domain</title>
+	<title>Public Nouns</title>
 
-	<meta name="description" content="<?php echo $page->summary; ?>" />
-
-	<meta name="generator" content="ProcessWire <?php echo $config->version; ?>" />
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
 
-	<link rel="stylesheet" type="text/css" href="<?php echo $config->urls->templates?>css/style.css" />
-	<script type="text/javascript" src="<?php echo $config->urls->templates?>js/modernizr.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script type="text/javascript" src="js/modernizr.js"></script>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async></script>
-	<script>window.jQuery || document.write('<script src="js/jquery.1.11.1.js">\x3C/script async>')</script>
 
-	<script type="text/javascript" src="<?php echo $config->urls->templates?>js/main.js" async></script>
-	
 	<!--
 	This website is powered by ProcessWire CMF/CMS.
 	ProcessWire is a free open source content management framework licensed under the GNU GPL.
