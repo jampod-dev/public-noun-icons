@@ -1,0 +1,6 @@
+dev/*
+errors/*
+*.bat
+*.sh
+gulpfile.js
+vendor/*

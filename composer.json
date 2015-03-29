@@ -1,0 +1,13 @@
+{
+    "name": "jamespodles/publicnoun",
+    "description": "Public Domain Noun Project Icons",
+    "authors": [
+        {
+            "name": "James Podles",
+            "email": "james@jamespodles.com"
+        }
+    ],
+    "require": {
+       
+    }
+}
